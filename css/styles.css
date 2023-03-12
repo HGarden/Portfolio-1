@@ -9,7 +9,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: royalblue;
+  background-color: rgb(87, 122, 133);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
@@ -19,7 +19,6 @@ body {
   align-items: center;
   flex-direction: column;
   margin-bottom: 50px;
-  margin-top: 50px;
 }
 
 h1 {
@@ -87,11 +86,11 @@ h2 {
 .card a {
   display: flex;
   margin-top: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   font-size: 30px;
   text-decoration: none;
   color: seagreen;
-  border-radius: 10px;
+  border-radius: 0px;
   border-style: solid;
   padding: 5px;
   transition: linear 200ms;
